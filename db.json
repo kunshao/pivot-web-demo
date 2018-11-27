@@ -1,5 +1,7 @@
-{"OperationId":16777220,
+{
+ "OperationId":16777220,
  "MaxResultsReached":false,
  "TaskId":null,
  "JobState":1,
- "TargetedClients":0}
+ "TargetedClients":0
+}
